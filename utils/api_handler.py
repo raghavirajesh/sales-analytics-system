@@ -2,7 +2,7 @@ import requests
 
 BASE_URL = "https://dummyjson.com/products"
 
-
+#--------------3.1--------------# 
 def fetch_all_products():
     """
     Fetches all products from DummyJSON API.
@@ -41,6 +41,7 @@ def create_product_mapping(api_products):
 
     return product_mapping
 
+#--------------3.2--------------# 
 def enrich_sales_data(transactions, product_mapping):
     """
     Enriches transaction data with API product information.
