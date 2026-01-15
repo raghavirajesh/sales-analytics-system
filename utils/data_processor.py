@@ -1,4 +1,4 @@
-#--------------2.1--------------#
+#--------------2.1--------------# 
 def calculate_total_revenue(transactions):
     """
     Calculates total revenue from all transactions
