@@ -161,3 +161,4 @@ def generate_sales_report(transactions, enriched_transactions, output_file='outp
         f.write("\n\n")
 
     print("Sales report generated successfully!")
+
