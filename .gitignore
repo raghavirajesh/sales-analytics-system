@@ -1,0 +1,15 @@
+# Mac system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode settings (optional but neat)
+.vscode/
+
+# Enriched / generated output files (optional if you don't want to commit them)
+data/enriched_sales_data.txt
+output/sales_report.txt
