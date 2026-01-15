@@ -13,3 +13,4 @@ __pycache__/
 # Enriched / generated output files (optional if you don't want to commit them)
 data/enriched_sales_data.txt
 output/sales_report.txt
+
